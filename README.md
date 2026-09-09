@@ -162,9 +162,7 @@ Shows the services detected by Nmap.
 
 ## 📄 Detailed Report
 
-The complete exercise report is available here:
-
-[Basic Network Scanning Report](Basic Network Scanning Report.pdf)
+The complete exercise report is available 
 
 ---
 
