@@ -164,7 +164,7 @@ Shows the services detected by Nmap.
 
 The complete exercise report is available here:
 
-[Basic Network Scanning Report](Basic_Network_Scanning_Report.pdf)
+[Basic Network Scanning Report](Basic Network Scanning Report.pdf)
 
 ---
 
